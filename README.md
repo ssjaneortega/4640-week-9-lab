@@ -5,7 +5,7 @@ In your Linux development environment, you'll need to configure the AWS CLI, as 
 
 
 ### Building the custom ami's using packer
-Go to the packer directory
+Go to the packer directory  
 `cd packer`  
 run the following packer commands in this order:  
 `packer validate .`  
