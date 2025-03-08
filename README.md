@@ -6,8 +6,8 @@ In your Linux development environment, you'll need to configure the AWS CLI, as 
 
 ### Building the custom ami's using packer
 Go to the packer directory
-`cd packer`
-run the following packer commands in this order:
+`cd packer`  
+run the following packer commands in this order:  
 `packer validate .`  
 `packer init .`  
 `packer build .`  
@@ -17,8 +17,8 @@ Next
 We need to go to the terraform directory
 `cd ..`  
 `cd terraform`  
-  
-run the following terraform commands in this order:
+    
+run the following terraform commands in this order:  
 `terraform init`  
 `terraform validate`  
 `terraform plan`  
