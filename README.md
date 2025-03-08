@@ -11,10 +11,10 @@ run the following packer commands in this order:
 `packer validate .`  
 `packer init .`  
 `packer build .`  
-(i dont know why but it worked this way rather than having the file name in the command)
+(i dont know why but it worked this way rather than the commands such as `packer <command> ansible-web.pkr.hcl` )
   
 Next
-We need to go to the terraform directory
+We need to go to the terraform directory  
 `cd ..`  
 `cd terraform`  
     
