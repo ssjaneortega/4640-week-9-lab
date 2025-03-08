@@ -26,4 +26,4 @@ run the following terraform commands in this order:
 
 You can check in AWS that the ec2 instance has indeed been created and go to the public IP address to see whats being displayed on the webpage.
 
-![Alt Text]()
+![Alt Text](lab-week-9.png)
