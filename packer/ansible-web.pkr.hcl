@@ -31,7 +31,7 @@ source "amazon-ebs" "ubuntu" {
 }
 
 build {
-  name = "packer-ansible-nginx-thing"
+  name = "packer-ansible-nginx"
 
   sources = ["source.amazon-ebs.ubuntu"]
 
